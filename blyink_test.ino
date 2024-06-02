@@ -13,8 +13,8 @@
 
 
 // Your WiFi credentials
-char ssid[] = "Redmi 13C";
-char pass[] = "nas123456";
+char ssid[] = "";
+char pass[] = "";
 
 // Define LED pins
 #define YELLOW_LED_PIN 2
